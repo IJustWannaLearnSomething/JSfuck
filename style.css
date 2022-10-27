@@ -9,6 +9,7 @@
 .container {
   width: 100vw;
   height: 100vh;
+  padding: 32px;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -32,4 +33,5 @@
 
 p {
   color: whitesmoke;
+  text-align: center;
 }
